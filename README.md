@@ -108,7 +108,4 @@ It demonstrates how to:
 
 ---
 
-## Disclaimer
 
-This repository is an experimental reference implementation of the SenseGrid Protocol.  
-It is **not** production-ready and is meant for research, prototyping and discussion.
